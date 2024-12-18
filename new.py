@@ -3,8 +3,8 @@ import requests
 import base64
 
 
-TOKEN = "github_personal_token"
-REPO = "username/repo"
+TOKEN = "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"
+REPO = "Rockykdv5/vampirexcheats"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
